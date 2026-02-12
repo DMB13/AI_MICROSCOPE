@@ -2,8 +2,10 @@
 Ai-aided microscope workstation
 
 AI-Assisted Workstation for Rapid Bacterial Species Identification
-📌 Project Overview
+## 📌 Project Overview
+
 In resource-constrained clinical settings, identifying bacterial pathogens traditionally takes 48 to 72 hours through culture methods. This delay often leads to empirical prescribing of broad-spectrum antibiotics, fueling Antimicrobial Resistance (AMR).
+
 This project introduces an Offline AI-Assisted Workstation designed for the Microbiology Laboratory at Mbeya Regional Referral Hospital (MRRH). Using a Deep Learning model (EfficientNet), the system identifies 33 bacterial species directly from digital Gram-stain microscopy images in seconds. It provides laboratory technicians with a "digital second opinion," reducing diagnostic turnaround time (TAT) and human error.
 ✨ Key Features
  * Offline Inference: No internet connection required, ensuring reliability in regional hospital settings.
