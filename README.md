@@ -23,7 +23,7 @@ The core of the workstation is a Convolutional Neural Network (CNN) based on the
  * UI/UX: CustomTkinter (Modernized Tkinter)
  * Database: SQLite3
  * Imaging: Pillow (PIL)
-📂 Project Structure
+## Project Structure
 D:\AI_Microscope\
 ├── app\
 │   ├── main_app.py                # Main GUI Workstation Entry point
@@ -37,7 +37,7 @@ D:\AI_Microscope\
 │   └── clinical_records.db        # Local SQLite database for history
 └── README.md                      # Project documentation
 
-🚀 Installation & Setup
+## Installation & Setup
  * Clone the Repository:
    git clone https://github.com/DMB13/AI-Microscope.git
 cd AI-Microscope-Workstation

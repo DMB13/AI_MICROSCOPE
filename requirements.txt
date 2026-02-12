@@ -1,0 +1,27 @@
+# AI_MICROSCOPE core dependencies
+# Adjust versions for your Python environment as needed (tested on Python 3.11+)
+
+# Deep learning
+tensorflow>=2.13.0,<2.15.0
+
+# Computer vision and imaging
+opencv-python>=4.7.0
+Pillow>=9.5.0
+
+# GUI
+customtkinter>=6.0.0
+
+# Scientific
+numpy>=1.25.0
+matplotlib>=3.8.0
+
+# Optional (for model conversion/optimization)
+tensorflow-lite>=2.13.0
+
+# Dev / testing
+pytest>=7.4.0
+
+# Pin additional packages as needed for deployment
+
+# PDF generation for report exports
+reportlab>=3.6.0

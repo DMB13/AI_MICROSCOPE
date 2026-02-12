@@ -1,0 +1,3 @@
+id,patient_id,timestamp,species,confidence,image_path,gradcam_path
+1,P0001,2026-02-11T22:39:34.173293,Escherichia_coli,0.92,model/sample_1.jpg,model/sample_1_gc.jpg
+2,P0002,2026-02-11T22:39:34.175752,Staphylococcus_aureus,0.87,model/sample_2.jpg,model/sample_2_gc.jpg

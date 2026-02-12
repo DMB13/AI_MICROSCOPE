@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data and models
+*.h5
+*.ckpt
+*.tflite
+model/clinical_records.db
+
+# OS
+.DS_Store
+
+# Logs
+*.log
